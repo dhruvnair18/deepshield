@@ -1,0 +1,10 @@
+{
+  "arch": "efficientnet_b0",
+  "weights": "/Users/dhruvnair/Desktop/deepfake-app/models/effb0_df.pth",
+  "invert": "true",
+  "thr": "0.60",
+  "face_detect": "false",
+  "sample_frames": "48",
+  "trained_on": "full-frames",
+  "ts": "2025-11-08 12:30 IST"
+}
